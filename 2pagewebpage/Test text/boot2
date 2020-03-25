@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>wek4</title>
+<link href="newcss.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Navbar</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link" href="#">Features</a>
+      <a class="nav-item nav-link" href="#">Pricing</a>
+      <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+    </div>
+  </div>
+</nav>
+	<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin interdum ornare nibh id aliquet. Mauris elementum lectus a nunc interdum, quis finibus leo tristique. Duis blandit pellentesque metus id dignissim. Sed urna lectus, facilisis sed justo et, tempus molestie dui. Curabitur lorem turpis, iaculis a blandit nec, bibendum quis magna. Phasellus efficitur libero et facilisis convallis. Vestibulum pellentesque justo vitae tellus facilisis imperdiet. Curabitur eleifend viverra turpis, eget dignissim enim feugiat pretium. Etiam luctus nulla at urna volutpat viverra. Nulla neque quam, accumsan id turpis id, iaculis interdum urna.Pellentesque semper est vitae hendrerit laoreet. Cras ligula nunc, tristique nec leo id, vulputate interdum justo. Cras elementum erat sit amet lectus consequat, sed volutpat sem consequat. Nulla non dui eget neque pulvinar viverra. Vivamus commodo ultrices nisi sed varius. Donec maximus massa sed mi rhoncus, id fermentum nulla eleifend. Aenean felis turpis, ultrices ullamcorper congue nec, convallis vitae odio. Donec eu est augue. Vivamus sit amet auctor dui. Duis condimentum feugiat consectetur. Nam at posuere lacus, vestibulum egestas quam.Etiam non fringilla tellus. Maecenas sit amet diam ut odio placerat rhoncus. Mauris ultricies aliquam nisl sit amet semper. Duis posuere velit non nunc commodo volutpat. Morbi sodales, urna a volutpat posuere, est tortor tempor ligula, nec accumsan justo urna at ante. Nullam varius eros sit amet consequat pellentesque. Praesent sed tincidunt massa. Nunc semper nisl pulvinar, vehicula orci vitae, consectetur tortor. Proin hendrerit turpis iaculis diam pulvinar, ut fringilla sapien maximus. Class aptent taci</p>
+</body>
+</html>
